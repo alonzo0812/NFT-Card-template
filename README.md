@@ -4,4 +4,5 @@
 
 ## Hello! 👋
 
+Currently have not put in active states.
 This is my first attempt at doing frontend mentor challenges and here is the end screenshot result of mine ![My attempt preview](my-preview.jpg)
